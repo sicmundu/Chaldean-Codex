@@ -1,8 +1,16 @@
-[
-  {
-    "name": "XION"
+{
+  "XION": {
+    "useWallets": true,
+    "useProxies": true,
+    "useMailcom": true,
+    "useTwitter": true,
+    "useDiscord": true
   },
-  {
-    "name": "Rabby"
+  "Rabby": {
+    "useWallets": true,
+    "useProxies": false,
+    "useMailcom": false,
+    "useTwitter": false,
+    "useDiscord": false
   }
-]
+}
