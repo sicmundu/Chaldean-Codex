@@ -12,5 +12,12 @@
     "useMailcom": false,
     "useTwitter": false,
     "useDiscord": false
+  },
+  "Shardeum": {
+    "useWallets": true,
+    "useProxies": false,
+    "useMailcom": false,
+    "useTwitter": false,
+    "useDiscord": false
   }
 }
