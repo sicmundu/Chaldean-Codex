@@ -19,5 +19,12 @@
     "useMailcom": false,
     "useTwitter": false,
     "useDiscord": false
+  },
+  "BEVM": {
+    "useWallets": true,
+    "useProxies": true,
+    "useMailcom": false,
+    "useTwitter": true,
+    "useDiscord": true
   }
 }
